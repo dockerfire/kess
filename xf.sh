@@ -2,7 +2,7 @@
 ##
 
 # Set ARG
-UUID=5a3f6e6d-0648-4b39-b27d-36d8299e719
+UUID=c73e234b-6e27-4af5-af67-eebe1f5b90d2
 ARCH="64"
 DOWNLOAD_PATH="/tmp/v2ray"
 
